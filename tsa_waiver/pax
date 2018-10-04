@@ -1,0 +1,21 @@
+waiver_id: 2018-INT-143576-A
+confirmation: 131189
+person_id:
+person_type: 1
+first_name: test
+middle_name: test
+last_name: test
+birth_date: 10/10/2000
+birth_city: Montreal
+birth_state:
+birth_cntry: Canada
+gender: 2
+ssn:
+known_traveler_number:
+passport_cntry: Canada
+passport_nmbr: AB123456
+pilot_cert_cntry: Canada
+pilot_cert_nmbr: aa123456
+aso:
+aso_credential:
+passenger_dca:
