@@ -18,7 +18,12 @@ AIP_URL = {
     'AIP_ENR_ENG':"http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Current/part_2_enr/2enr_eng.pdf",
     'AIP_AD_ENG': "http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Current/part_3_ad/3ad_eng.pdf",
     'AIP_SUP_ENG':"http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Current/part_4_aip_sup/4aip_sup_eng.pdf",
-    'AIP_AIC_ENG':"http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Current/part_5_aic/5aic_eng.pdf"
+    'AIP_AIC_ENG':"http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Current/part_5_aic/5aic_eng.pdf",
+    'NEXT_AIP_GEN_ENG': "http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Next/part_1_gen/1gen_eng.pdf",
+    'NEXT_AIP_ENR_ENG':"http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Next/part_2_enr/2enr_eng.pdf",
+    'NEXT_AIP_AD_ENG': "http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Next/part_3_ad/3ad_eng.pdf",
+    'NEXT_AIP_SUP_ENG':"http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Next/part_4_aip_sup/4aip_sup_eng.pdf",
+    'NEXT_AIP_AIC_ENG':"http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Next/part_5_aic/5aic_eng.pdf",
     }
 
 AIM_URL = "http://www.tc.gc.ca/media/documents/ca-publications/AIM-2018-1-E-ACCESS.pdf"
