@@ -13,7 +13,7 @@ def download_aip(aip_url, temp_dir):
 def download_aim(aim_url, temp_dir):
     print('AIM downloading...')
     responce = requests.get(aim_url)
-    with open(temp_dir + "/Aeronautical Information Manual (AIM)" + '.pdf', 'wb') as file:
+    with open(temp_dir + "/Aeronautical_Information_Manual_(AIM)" + '.pdf', 'wb') as file:
         file.write(responce.content)
     print('AIM download completed.')
 
