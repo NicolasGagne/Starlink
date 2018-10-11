@@ -38,7 +38,7 @@ if __name__ == "__main__":
     download_aa(AA_URL, temp_dir_dict['aa_dir'])
     Arinc(temp_dir_dict, ARINC_CREDIENTIAL["username"], ARINC_CREDIENTIAL["password"])
     Arinc(temp_dir_dict, AIM_CREDIENTIAL["username"], AIM_CREDIENTIAL["password"])
-
+    
     # remove the temp file
     print('Deleting all temp files.')
     shutil.rmtree(temp_dir)
