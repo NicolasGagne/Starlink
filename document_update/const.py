@@ -52,6 +52,3 @@ AIM_URL = "http://www.tc.gc.ca/media/documents/ca-publications/AIM_" + aim_date_
 AA_URL = "http://laws-lois.justice.gc.ca/PDF/A-2.pdf"
 
 URL_CHROMEDRIVER = "https://chromedriver.storage.googleapis.com/2.42/chromedriver_win32.zip"
-
-
-print(AIM_URL)
