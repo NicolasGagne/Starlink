@@ -26,7 +26,7 @@ AIP_URL = {
     'NEXT_AIP_AIC_ENG':"http://www.navcanada.ca/EN/products-and-services/Documents/AIP/Next/part_5_aic/5aic_eng.pdf",
     }
 
-AIM_URL = "http://www.tc.gc.ca/media/documents/ca-publications/AIM-2018-2-E-ACCESS.pdf"
+AIM_URL = "https://www.tc.gc.ca/media/documents/ca-publications/AIM_2018-2_EN-ACCESS.pdf"
 
 AA_URL = "http://laws-lois.justice.gc.ca/PDF/A-2.pdf"
 
