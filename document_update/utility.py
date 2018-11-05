@@ -24,8 +24,7 @@ def time_sleep_counter(seconds):
     for i in range(seconds):
         sys.stdout.write("\r" + 'Please Wait ' + str(seconds - i) + ' sec.')
         time.sleep(1)
-
-    print()
+    sys.stdout.write("\r")
 
 def download_chromedriver(temp_dir):
 
