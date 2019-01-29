@@ -22,7 +22,7 @@ def download_aim(aim_url, temp_dir):
 
 def download_aa(aa_url, temp_dir):
     print('Aeronautic Act downloading...')
-    responce = requests.get(aa_url)
+    responce = requests.get(aa_url, verify=False)
     with open(temp_dir + "/Aeronautical Act" + '.pdf', 'wb') as file:
         file.write(responce.content)
 
